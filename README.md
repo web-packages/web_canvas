@@ -1,6 +1,6 @@
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/735a0e20-0c8f-40b5-b65f-fd99f5e6d101">
-  <h1>Web Packages</h1>
+  <img width="200px" src="https://github.com/user-attachments/assets/0142d9f8-7cfc-4623-864b-333335306ab3">
+  <h1>Web Canvas</h1>
   <table>
         <thead>
           <tr>
